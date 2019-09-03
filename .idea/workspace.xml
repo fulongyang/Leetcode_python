@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="07c2f71f-3674-4d73-9f41-bba33a5b6195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/35_Search Insert Position.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py" afterPath="$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py" />
+      <change beforePath="$PROJECT_DIR$/leet_code.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/Fibonacci.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/PalindromeLinkedList.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/二叉树.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/动态规划/DP_动态规划.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/斐波那契/fb_v2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/基础算法/算法手册.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,48 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Level 1/3sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fb_v1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fb_v2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count_list_v1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="767" />
     <option name="y" value="9" />
     <option name="width" value="1092" />
@@ -164,30 +129,6 @@
               <item name="Leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_python" type="462c0819:PsiDirectoryNode" />
               <item name="Level 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="基础算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="基础算法" type="462c0819:PsiDirectoryNode" />
-              <item name="列表计数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="基础算法" type="462c0819:PsiDirectoryNode" />
-              <item name="列表计数" type="462c0819:PsiDirectoryNode" />
-              <item name="count_list_v1.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="Leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="基础算法" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,17 +287,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="767" y="9" width="1092" height="1021" extended-state="1" />
-    <editor active="true" />
+    <frame x="767" y="9" width="1092" height="1021" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22093023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25872093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18930481" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22850679" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22850679" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10852713" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36627907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2924312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.056561086" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,6 +304,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18930481" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -391,22 +331,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py">
+    <entry file="file://$PROJECT_DIR$/Level 1/3sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1827">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py">
+    <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py" />
+    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py" />
     <entry file="file://$PROJECT_DIR$/Level 1/246_StrobogrammaticNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -427,7 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="105" column="6" lean-forward="false" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="209" column="6" lean-forward="false" selection-start-line="209" selection-start-column="6" selection-end-line="209" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,18 +406,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_v1.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_46.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -471,14 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/35_Search Insert Position.py" />
     <entry file="file://$PROJECT_DIR$/Level 1/58. Length of Last Word_easy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -487,18 +427,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Level 1/3sum.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="993" column="6" lean-forward="false" selection-start-line="993" selection-start-column="6" selection-end-line="993" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/timeit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="222">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -511,26 +457,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/algorithms.py">
+    <entry file="file://$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="993" column="6" lean-forward="false" selection-start-line="993" selection-start-column="6" selection-end-line="993" selection-end-column="6" />
+        <state relative-caret-position="196">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/timeit.py">
+    <entry file="file://$PROJECT_DIR$/Level 1/3sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="432">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding />
         </state>
       </provider>
