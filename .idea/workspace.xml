@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="07c2f71f-3674-4d73-9f41-bba33a5b6195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/leet_code.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/Fibonacci.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/PalindromeLinkedList.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/二叉树.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/列表计数/count_list_v1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/动态规划/DP_动态规划.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/斐波那契/fb_v1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/斐波那契/fb_v2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/基础算法/算法手册.txt" afterPath="" />
-    </list>
+    <list default="true" readonly="true" id="07c2f71f-3674-4d73-9f41-bba33a5b6195" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
