@@ -15,7 +15,7 @@ class Solution:
 
 
 
-Solution.countAndSay(5  )
+Solution.countAndSay(5)
 
 
 
