@@ -1,3 +1,4 @@
+
 # _*_ encoding:utf-8 _*_
 """
 # -*- coding: utf-8 -*-
@@ -12,5 +13,29 @@
 原文链接：
 """
 
+
+class Solution:
+
+    @classmethod
+    def canWinNim(self, n: int) -> bool:
+        if (n<4):return True
+        result = n & 3 !=0
+        print(result)
+        return result
+
+
+
 if __name__ == "__main__":
-    pass
+    n=5
+    Solution.canWinNim(n)
+
+
+
+
+
+
+
+
+
+
+
