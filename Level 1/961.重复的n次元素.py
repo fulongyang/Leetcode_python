@@ -21,7 +21,7 @@ class Solution:
     '''
 
     @classmethod
-    def repeatedNTimes(self, A) -> int:
+    def repeatedNTimes01(self, A) -> int:
         #input :[1,2,3,3]
         #output:3
         from collections import Counter
@@ -36,4 +36,4 @@ class Solution:
 if __name__ == "__main__":
     # A = [1,2,3,3]
     A = [2,1,2,5,3,2]
-    Solution.repeatedNTimes(A)
+    Solution.repeatedNTimes01(A)
